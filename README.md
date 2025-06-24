@@ -1,3 +1,3 @@
-# first repero
+# first
 author=aryan
 this is first
